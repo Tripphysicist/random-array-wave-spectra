@@ -6,9 +6,9 @@
 
 Official code and data repository for:
 
-> **Measuring Directional Wave Spectra with Random Spatial Arrays**  
-> Clarence Olin Collins III, et al.  
-> *Journal of Atmospheric and Oceanic Technology* (AMS), 2026.
+> **Estimating Directional Wave Spectra with Randomly Distributed Spatial Arrays**  
+> Clarence O. Collins III, Alexei Skvortsov, Alexander Babanin, and Ian Young  
+> *Submitted to Ocean Engineering* (Elsevier).
 
 This repository provides everything needed to:
 1. **Instantly reproduce Figures 1–13** from the manuscript using packaged, figure-ready datasets (<80 MB).
@@ -144,11 +144,12 @@ If you wish to regenerate the underlying Monte Carlo ensemble datasets from scra
 If you use this code or data in your research, please cite:
 
 ```bibtex
-@article{collins2026measuring,
-  author    = {Collins, III, Clarence Olin and Pel{\'a}ez, Daniel and Dias, Fr{\'e}d{\'e}ric},
-  title     = {Measuring Directional Wave Spectra with Random Spatial Arrays},
-  journal   = {Journal of Atmospheric and Oceanic Technology},
+@article{collins2026estimating,
+  author    = {Collins, III, Clarence O. and Skvortsov, Alexei and Babanin, Alexander and Young, Ian},
+  title     = {Estimating Directional Wave Spectra with Randomly Distributed Spatial Arrays},
+  journal   = {Ocean Engineering},
   year      = {2026},
+  note      = {Submitted},
   doi       = {10.5281/zenodo.placeholder}
 }
 ```
