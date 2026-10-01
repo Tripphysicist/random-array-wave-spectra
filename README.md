@@ -1,6 +1,6 @@
 # Measuring Directional Wave Spectra with Random Spatial Arrays
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.placeholder.svg)](https://doi.org/10.5281/zenodo.placeholder)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23086121.svg)](https://doi.org/10.5281/zenodo.23086121)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2022b%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 
@@ -150,7 +150,7 @@ If you use this code or data in your research, please cite:
   journal   = {Ocean Engineering},
   year      = {2026},
   note      = {Submitted},
-  doi       = {10.5281/zenodo.placeholder}
+  doi       = {10.5281/zenodo.23086121}
 }
 ```
 
